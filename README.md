@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil! ❤️
 
 Meu nome é Raffael Augusto.
-- Estou estudando na [Alura](https://www.alura.com.br), aprimorando mjnhas habilidades de linguagem JavaScript.
+- Estou estudando na [Alura](https://www.alura.com.br), aprimorando minhas habilidades na linguagem JavaScript.
 - Utilizo este espaço para organizar e compartilhar meus projetos.
 
   ### Caso queira entrar em contato comigo:
